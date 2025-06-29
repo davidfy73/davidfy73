@@ -19,6 +19,9 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bash](https://img.shields.io/badge/-Bash-121011?style=for-the-badge&logo=gnu-bash)
+![Nessus](https://img.shields.io/badge/Nessus-Vulnerability%20Scanner-blue?style=for-the-badge&logo=tenable&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-Network%20IDS-critical?style=for-the-badge&logo=snort&logoColor=white&color=red)
+
 
 ---
 
