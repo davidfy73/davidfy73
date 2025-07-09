@@ -1,6 +1,6 @@
 # 👋 Hi, I'm David
 
-🔐  I'm a passionate **Junior Network Pentester** and Cybersecurity Enthusiast.  
+🔐  I'm a passionate **Junior Pentester** and aspiring **SOC Analyst**, focusing on both offensive and defensive security.    
 💻  I love breaking into networks (legally), writing automation tools, and learning everyday.  
 🌍  Currently exploring: CTFs, Bash scripting, and Linux-based network attacks.
 
@@ -25,9 +25,11 @@
 
 ---
 
-## 🚩 CTF & Labs
+## 🚩 Learn Platform
 
 [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Profile-9fef00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/2416560)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/davidlearn73)
+
 
 ---
 
@@ -36,6 +38,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidlearn73@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-fairy-95334a363/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/imvall_4/profilecard/?igsh=OTRwajI1MXE1anNq)
+
 
 ---
 
