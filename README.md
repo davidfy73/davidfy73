@@ -1,46 +1,42 @@
-# 👋 Hi, I'm David
+# Hello, I'm Davidfy
 
-🔐  I'm a passionate **Junior Pentester** and aspiring **SOC Analyst**, focusing on both offensive and defensive security.    
-💻  I love breaking into networks (legally), writing automation tools, and learning everyday.  
-🌍  Currently exploring: CTFs, Bash scripting, and Linux-based network attacks.
+I am an **Informatics Engineering** student with a deep passion for **Cybersecurity** and **Systems Administration**. My primary focus lies in **Blue Team** operations, network defense strategies, and maintaining secure, resilient infrastructure.
 
 ---
 
-## 🧰 Tools I Use
-
-![Nmap](https://img.shields.io/badge/-Nmap-000?style=for-the-badge&logo=nmap)
-![Wireshark](https://img.shields.io/badge/-Wireshark-0078D7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/-Metasploit-3F3F3F?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-orange?style=for-the-badge)
-![OWASP ZAP](https://img.shields.io/badge/-OWASP%20ZAP-1A1F71?style=for-the-badge&logo=OWASP&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/-Bash-121011?style=for-the-badge&logo=gnu-bash)
-![Nessus](https://img.shields.io/badge/Nessus-Vulnerability%20Scanner-blue?style=for-the-badge&logo=tenable&logoColor=white)
-![Snort](https://img.shields.io/badge/Snort-Network%20IDS-critical?style=for-the-badge&logo=snort&logoColor=white&color=red)
-
+### 🎯 Areas of Interest
+- **Blue Teaming:** Threat monitoring, log analysis, and incident response.
+- **Systems Administration:** Server hardening (Linux/Windows) and infrastructure automation.
+- **Network Security:** Traffic analysis and IDS/IPS implementation.
 
 ---
 
-## 🚩 Learn Platform
+### 🛠️ Technical Stack & Security Tools
 
-[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Profile-9fef00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/2416560)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/davidlearn73)
+#### Virtualization & Infrastructure
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux)
+![Windows](https://img.shields.io/badge/-Windows-333333?style=flat-square&logo=windows)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat-square&logo=docker)
+![KVM](https://img.shields.io/badge/-KVM-333333?style=flat-square&logo=qemu)
 
+#### Detection & Monitoring (SIEM/XDR)
+![Wazuh](https://img.shields.io/badge/-Wazuh-333333?style=flat-square&logo=wazuh)
+![Suricata](https://img.shields.io/badge/-Suricata-333333?style=flat-square&logo=suricata)
+![ELK Stack](https://img.shields.io/badge/-ELK%20Stack-333333?style=flat-square&logo=elastic-stack)
 
----
+#### Analysis & Vulnerability Management
+![Wireshark](https://img.shields.io/badge/-Wireshark-333333?style=flat-square&logo=wireshark)
+![Nessus](https://img.shields.io/badge/-Nessus-333333?style=flat-square&logo=tenable)
+![Ghidra](https://img.shields.io/badge/-Ghidra-333333?style=flat-square&logo=ghidra)
 
-## 📫 Contact
-
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidlearn73@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-fairy-95334a363/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/imvall_4/profilecard/?igsh=OTRwajI1MXE1anNq)
+#### Networking
+![Cisco](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-333333?style=flat-square&logo=cisco)
 
 
 ---
 
-> _"Discover. Exploit. Report. Repeat."_
+### 📫 Connect with Me
+- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- **Email:** [your-email@example.com](mailto:your-email@example.com)
 
+*"Securing the digital frontier, one log at a time."*
