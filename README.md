@@ -13,6 +13,10 @@ I am an **Informatics Engineering** student with a deep passion for **Cybersecur
 
 ### 🛠️ Technical Stack & Security Tools
 
+#### Languages & Scripting
+![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)
+![Bash](https://img.shields.io/badge/-Bash-333333?style=flat-square&logo=gnu-bash)
+
 #### Virtualization & Infrastructure
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux)
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat-square&logo=windows)
@@ -25,6 +29,7 @@ I am an **Informatics Engineering** student with a deep passion for **Cybersecur
 ![ELK Stack](https://img.shields.io/badge/-ELK%20Stack-333333?style=flat-square&logo=elastic-stack)
 
 #### Analysis & Vulnerability Management
+![Nmap](https://img.shields.io/badge/-Nmap-333333?style=flat-square&logo=nmap)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-333333?style=flat-square&logo=wireshark)
 ![Nessus](https://img.shields.io/badge/-Nessus-333333?style=flat-square&logo=tenable)
 ![Ghidra](https://img.shields.io/badge/-Ghidra-333333?style=flat-square&logo=ghidra)
@@ -36,7 +41,7 @@ I am an **Informatics Engineering** student with a deep passion for **Cybersecur
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **Instagram:** [@your-handle](https://instagram.com/your-handle)
+- **Email:** [itsmefy07@gmail.com](mailto:itsmefy07@gmail.com)
 
 *"Securing the digital frontier, one log at a time."*
