@@ -1,69 +1,45 @@
-# Hi, I'm Davidfy
+<div align="center">
 
-A passionate Cybersecurity enthusiast focusing on Blue Team operations, Cloud infrastructure, and Linux administration. Driven by a strong desire to continuously learn, monitor threats, and build secure network environments.
+# Yosheii
 
----
+**Blue Team Cybersecurity | Web Bug Bounty Hunter**
 
-## Areas of Interest
-
-- **Blue Team Operations:** Threat monitoring, log analysis, and exploring SIEM/endpoint security.
-- **Cloud Computing (AWS):** Hands-on exploration of AWS services, secure configurations, and cloud deployment.
-- **Linux Systems:** Advanced command-line usage, OS administration, and maintaining secure environments.
-- **Network Security:** Network traffic monitoring and exploring threat detection strategies.
+</div>
 
 ---
 
-## Technical Stack & Security Tools
+### Focus Areas
+
+- **Blue Team / SOC Operations** — log analysis, detection engineering, incident response
+- **Digital Forensics and Incident Response (DFIR)** — disk and memory forensics, artifact analysis
+- **Threat Intelligence and Threat Hunting** — IOC analysis, MITRE ATT&CK mapping
+- **Web Application Security (Bug Bounty)** — vulnerability discovery and reporting on Bugcrowd and YesWeHack
 
 ---
 
-### 💻 Languages & Scripting
+### Skills
 
-![Go](https://img.shields.io/badge/-Go-333333?style=flat-square&logo=go)
-![Bash](https://img.shields.io/badge/-Bash-333333?style=flat-square&logo=gnubash)
-
----
-
-### 🔵 Blue Team
-
-**SIEM**
-<br>
-![Wazuh](https://img.shields.io/badge/-Wazuh-333333?style=flat-square&logo=wazuh)
-![ELK Stack](https://img.shields.io/badge/-ELK%20Stack-333333?style=flat-square&logo=elasticstack)
-
-**EDR & Endpoint Visibility**
-<br>
-![Auditd](https://img.shields.io/badge/-Auditd-333333?style=flat-square&logo=linux)
-![Falco](https://img.shields.io/badge/-Falco-333333?style=flat-square&logo=falco)
-![Velociraptor](https://img.shields.io/badge/-Velociraptor-333333?style=flat-square&logo=rapid7)
-
-**Network Security Monitoring**
-<br>
-![Zeek](https://img.shields.io/badge/-Zeek-333333?style=flat-square&logo=zeek)
-![Suricata](https://img.shields.io/badge/-Suricata-333333?style=flat-square&logo=suricata)
-![Wireshark](https://img.shields.io/badge/-Wireshark-333333?style=flat-square&logo=wireshark)
-
-**SOAR & Incident Management**
-<br>
-![TheHive](https://img.shields.io/badge/-TheHive-333333?style=flat-square&logo=thehive)
+| Category | Skills |
+|---|---|
+| SOC / Detection | SIEM log analysis, Sigma detection rule writing |
+| DFIR | Disk imaging, memory forensics, file carving, artifact analysis |
+| Threat Intelligence | IOC analysis, MITRE ATT&CK mapping |
+| Incident Response | Case handling, investigation workflow |
+| Web Security | SQL injection, SSRF, authentication flaws, API security testing |
+| Programming | Go (security tooling), Bash (scripting and automation), C++ (fundamentals) |
+| Networking | Network fundamentals, packet analysis |
 
 ---
 
-### ☁️ Cloud & Infrastructure
+### Certifications
 
-**Cloud & IaC**
-<br>
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat-square&logo=amazonwebservices)
-![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat-square&logo=terraform)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat-square&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat-square&logo=kubernetes)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux)
+- **ISC2 Certified in Cybersecurity (CC)**
 
 ---
 
+<div align="center">
 
-## 📫 Connect with Me
-- **Instagram:** [sheii_404](https://instagram.com/sheii_404)
-- **Email:** [itsmefy07@gmail.com](mailto:itsmefy07@gmail.com)
+*This profile reflects an active, self-funded learning process rather than a finished skill set.*
+*Projects here are primarily lab work, tooling experiments, and documentation from ongoing study.*
 
-*"Defending networks and building secure environments from the command line."*
+</div>
