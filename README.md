@@ -2,7 +2,7 @@
 
 # Yosheii
 
-**Blue Team Cybersecurity | Web Bug Bounty Hunter**
+**Penetration Testing | DevSecOps | Web Bug Bounty Hunter**
 
 </div>
 
@@ -10,10 +10,10 @@
 
 ### Focus Areas
 
-- **Blue Team / SOC Operations** — log analysis, detection engineering, incident response
-- **Digital Forensics and Incident Response (DFIR)** — disk and memory forensics, artifact analysis
-- **Threat Intelligence and Threat Hunting** — IOC analysis, MITRE ATT&CK mapping
-- **Web Application Security (Bug Bounty)** — vulnerability discovery and reporting on Bugcrowd and YesWeHack
+- **Network Penetration Testing** — internal and external network assessments, enumeration, vulnerability assessment, exploitation, reporting
+- **Web Application Security (Bug Bounty)** — vulnerability discovery and responsible disclosure
+- **DevSecOps** — integrating security checks into CI/CD pipelines
+- **Security Automation** — scripting and tooling for recon and repeatable security testing
 
 ---
 
@@ -21,12 +21,11 @@
 
 | Category | Skills |
 |---|---|
-| SOC / Detection | SIEM log analysis, Sigma detection rule writing |
-| DFIR | Disk imaging, memory forensics, file carving, artifact analysis |
-| Threat Intelligence | IOC analysis, MITRE ATT&CK mapping |
-| Incident Response | Case handling, investigation workflow |
-| Web Security | SQL injection, SSRF, authentication flaws, API security testing |
-| Programming | Go (security tooling), Bash (scripting and automation), C++ (fundamentals) |
+| Web Security | OWASP Top 10, SQL injection, XSS, SSRF, IDOR, authentication flaws, API security testing |
+| Network Penetration Testing | Network scanning and enumeration, vulnerability assessment, exploitation, post-exploitation basics, report writing |
+| DevSecOps | CI/CD security (GitHub Actions), SAST, DAST, SCA, secret scanning |
+| Containers and IaC | Docker image scanning, Infrastructure as Code security basics |
+| Programming | Python, Bash, JavaScript (scripting, automation, and web security testing) |
 | Networking | Network fundamentals, packet analysis |
 
 ---
